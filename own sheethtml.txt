@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Custom Stylesheet Example</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1>Welcome to My Web Page</h1>
+  <p>This is a paragraph with some text.</p>
+  <p><a href="#">Click here</a> to visit a link.</p>
+</body>
+</html>
